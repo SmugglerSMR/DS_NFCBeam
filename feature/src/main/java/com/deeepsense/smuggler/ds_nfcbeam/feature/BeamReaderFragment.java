@@ -1,7 +1,7 @@
 package com.deeepsense.smuggler.ds_nfcbeam.feature;
 
 import android.app.Activity;
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
 import android.content.Intent;
 import android.net.Uri;
 import android.nfc.FormatException;

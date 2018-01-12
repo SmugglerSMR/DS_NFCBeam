@@ -21,6 +21,10 @@ INJECTED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main
 		ADDED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml
 		INJECTED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml:5:5-62
+	android:name
+		ADDED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml:5:22-59
 uses-sdk
 ADDED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml:6:5-8:41
 INJECTED from /home/smuggler/Android/workspace/DS_NFCBeam/ndeftoolsutil/src/main/AndroidManifest.xml:6:5-8:41

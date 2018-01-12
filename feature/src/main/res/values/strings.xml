@@ -6,60 +6,60 @@
     <string name="nfcTurnOn">NFC Turned On</string>
     <string name="nfcTurnOff">NFC Turned Off</string>
     <string name="noNFC">NFC is not Available</string>
-    <string name="NFCtagLost">NFC tah has been lost</string>
+    <string name="NFCtagLost">NFC tag has been lost</string>
     <string name="readMultipleRecordNDEFMessage">Multi-record message received.</string>
     <string name="readSingleRecordNDEFMessage">Single-record message read</string>
     <string name="readEmptyMessage">Empty message readed</string>
     <string name="readNonNDEFMessage">Non-NDEF Message readed</string>
     <string name="bring_the_two_devices_together">Bring device to NFC POS</string>
     <string name="cancel">Cancel receipt</string>
-    <string name="genericControlDataRecords">%d data records</string>
+    <string name="genericControlDataRecords" translatable="false">%d data records</string>
     <string name="smartPosterTitle">Title</string>
     <string name="unknown">Unknown</string>
-    <string name="alternativeCarrier">Alternative Carrier</string>
-    <string name="handoverCarrierCarrierDataValue">%d bytes</string>
-    <string name="handoverCarrier">Handover Carrier</string>
-    <string name="handoverCarrierCarrierTypeFormat">Carrier type format</string>
-    <string name="handoverCarrierCarrierType">Carrier type</string>
-    <string name="handoverCarrierCarrierData">Carrier data</string>
-    <string name="handoverSelect">Handover Select</string>
-    <string name="handoverSelectMajorVersion">Major version</string>
-    <string name="handoverSelectMinorVersion">Minor version</string>
-    <string name="handoverSelectAlternativeCarriers">Alternative carriers</string>
-    <string name="handoverSelectError">Error</string>
-    <string name="wellknownURI">Well-known URI</string>
-    <string name="uri">URI</string>
-    <string name="handoverRequest">Handover Request</string>
-    <string name="handoverRequestMajorVersion">Major version</string>
-    <string name="handoverRequestMinorVersion">Minor version</string>
-    <string name="handoverRequestCollisionResolution">Collision resolution</string>
-    <string name="handoverRequestAlternativeCarriers">Alternative carriers</string>
-    <string name="smartPoster">Smart Poster</string>
-    <string name="smartPosterURI">URI</string>
-    <string name="smartPosterAction">Action</string>
-    <string name="action">Action</string>
-    <string name="actionAction">Action</string>
-    <string name="genericControl">Generic Control</string>
-    <string name="genericControlConfigurationByte">Configuration byte</string>
-    <string name="genericControlTarget">Target</string>
-    <string name="genericControlAction">Action</string>
-    <string name="genericControlData">Data</string>
-    <string name="external">External</string>
-    <string name="domain">Domain</string>
-    <string name="type">Type</string>
-    <string name="data">Data</string>
-    <string name="mimemedia">Mimedia</string>
-    <string name="mimemediaMimetype">Mimetype</string>
-    <string name="mimemediaSize">Payload size</string>
-    <string name="absoluteURI">Absolute URI</string>
-    <string name="empty">Empty</string>
-    <string name="androidApplicationPackageName">DS_NFCBeam</string>
-    <string name="androidApplication">App</string>
-    <string name="text">Text</string>
-    <string name="textMessage">Message</string>
-    <string name="textLocale">Locale</string>
-    <string name="textEncoding">Encoding</string>
-    <string name="alternativeCarrierCarrierPowerState">Carrier power state</string>
-    <string name="alternativeCarrierCarrierDataReference">Carrier data reference</string>
-    <string name="alternativeCarrierAuxiliaryDataReferences">Auxiliary data references</string>
+    <string name="alternativeCarrier" translatable="false">Alternative Carrier</string>
+    <string name="handoverCarrierCarrierDataValue" translatable="false">%d bytes</string>
+    <string name="handoverCarrier" translatable="false">Handover Carrier</string>
+    <string name="handoverCarrierCarrierTypeFormat" translatable="false">Carrier type format</string>
+    <string name="handoverCarrierCarrierType" translatable="false">Carrier type</string>
+    <string name="handoverCarrierCarrierData" translatable="false">Carrier data</string>
+    <string name="handoverSelect" translatable="false">Handover Select</string>
+    <string name="handoverSelectMajorVersion" translatable="false">Major version</string>
+    <string name="handoverSelectMinorVersion" translatable="false">Minor version</string>
+    <string name="handoverSelectAlternativeCarriers" translatable="false">Alternative carriers</string>
+    <string name="handoverSelectError" translatable="false">Error</string>
+    <string name="wellknownURI" translatable="false">Well-known URI</string>
+    <string name="uri" translatable="false">URI</string>
+    <string name="handoverRequest" translatable="false">Handover Request</string>
+    <string name="handoverRequestMajorVersion" translatable="false">Major version</string>
+    <string name="handoverRequestMinorVersion" translatable="false">Minor version</string>
+    <string name="handoverRequestCollisionResolution" translatable="false">Collision resolution</string>
+    <string name="handoverRequestAlternativeCarriers" translatable="false">Alternative carriers</string>
+    <string name="smartPoster" translatable="false">Smart Poster</string>
+    <string name="smartPosterURI" translatable="false">URI</string>
+    <string name="smartPosterAction" translatable="false">Action</string>
+    <string name="action" translatable="false">Action</string>
+    <string name="actionAction" translatable="false">Action</string>
+    <string name="genericControl" translatable="false">Generic Control</string>
+    <string name="genericControlConfigurationByte" translatable="false">Configuration byte</string>
+    <string name="genericControlTarget" translatable="false">Target</string>
+    <string name="genericControlAction" translatable="false">Action</string>
+    <string name="genericControlData" translatable="false">Data</string>
+    <string name="external" translatable="false">External</string>
+    <string name="domain" translatable="false">Domain</string>
+    <string name="type" translatable="false">Type</string>
+    <string name="data" translatable="false">Data</string>
+    <string name="mimemedia" translatable="false">Mimedia</string>
+    <string name="mimemediaMimetype" translatable="false">Mimetype</string>
+    <string name="mimemediaSize" translatable="false">Payload size</string>
+    <string name="absoluteURI" translatable="false">Absolute URI</string>
+    <string name="empty" translatable="false">Empty</string>
+    <string name="androidApplicationPackageName" translatable="false">DS_NFCBeam</string>
+    <string name="androidApplication" translatable="false">App</string>
+    <string name="text" translatable="false">Text</string>
+    <string name="textMessage" translatable="false">Message</string>
+    <string name="textLocale" translatable="false">Locale</string>
+    <string name="textEncoding" translatable="false">Encoding</string>
+    <string name="alternativeCarrierCarrierPowerState" translatable="false">Carrier power state</string>
+    <string name="alternativeCarrierCarrierDataReference" translatable="false">Carrier data reference</string>
+    <string name="alternativeCarrierAuxiliaryDataReferences" translatable="false">Auxiliary data references</string>
 </resources>

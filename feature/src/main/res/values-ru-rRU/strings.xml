@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content">Контент</string>
+    <string name="receiving_message">Получаем сообщение</string>
+    <string name="nfcAvailableEnabled">NFC Доступен и Включон</string>
+    <string name="nfcAvailableDisabled">NFC Доступен, но отключён. Пожлуйста, обратитесь в настройки.</string>
+    <string name="nfcTurnOn">NFC Включён.</string>
+    <string name="nfcTurnOff">NFC Отключён.</string>
+    <string name="noNFC">NFC Недоступен</string>
+    <string name="NFCtagLost">NFC Тэг потерян</string>
+    <string name="readMultipleRecordNDEFMessage">Получено сообщение с несколько записей</string>
+    <string name="readSingleRecordNDEFMessage">Получено сообщение с одной записью.</string>
+    <string name="readEmptyMessage">Пустое сообщение полученно.</string>
+    <string name="readNonNDEFMessage">Получено сообщение не являющиеся NDEF</string>
+    <string name="bring_the_two_devices_together">Поднесите устройство к ЭлЧек машине</string>
+    <string name="cancel">Отменить чек</string>
+    <string name="smartPosterTitle">Титул</string>
+    <string name="unknown">Неизвестно</string>
+</resources>
