@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/feature/feature.iml" filepath="$PROJECT_DIR$/feature/feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndeftools/ndeftools.iml" filepath="$PROJECT_DIR$/ndeftools/ndeftools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" filepath="$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" />
     </modules>
   </component>
 </project>

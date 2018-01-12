@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/base" />
             <option value="$PROJECT_DIR$/feature" />
             <option value="$PROJECT_DIR$/instantapp" />
+            <option value="$PROJECT_DIR$/ndeftools" />
+            <option value="$PROJECT_DIR$/ndeftoolsutil" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
